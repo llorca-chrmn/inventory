@@ -108,7 +108,7 @@ INSERT INTO `peripheral` (`id`, `asset_name`, `deployed`, `defected`, `spare`) V
 (5, 'Video Card', 0, 0, 0),
 (6, 'Diskdrive', 0, 0, 0),
 (7, 'RAM', 0, 0, 0),
-(8, 'Laptop', 0, 0, -1);
+(8, 'Laptop', 0, 0, 0);
 
 -- --------------------------------------------------------
 
@@ -176,7 +176,7 @@ CREATE TABLE `user_info` (
 --
 
 INSERT INTO `user_info` (`id`, `firstname`, `middlename`, `lastname`, `DOB`, `age`, `contact`, `email`, `image`, `first_access`) VALUES
-(1, 'itsupport', 'itsupport', 'itsupport', '1994-02-09', 23, '09964545008', 'itsupport@gmail.com', 'ffdffdfd.jpg', '2018-07-10 03:19:24');
+(1, 'itsupport', 'itsupport', 'itsupport', '1994-02-09', 23, '09964545008', 'itsupport@gmail.com', 'logo.png', '2018-07-10 03:19:24');
 
 --
 -- Indexes for dumped tables

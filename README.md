@@ -1,8 +1,10 @@
 # Overview
-An inventory system for computer peripherals using CodeIgniter Framework and mySQL database.
+An inventory-management system for computer peripherals using CodeIgniter Framework and mySQL database.      
+        
+The peripheral categories and items can be added respectively, then each of those could be a Spare, Deployed and Defective peripheral.
 
 # Feature Demo
-
+![demo](demo.gif)
 # Installation
 - Import the `Inventory-System` database     
 _Loc_: assets/inventory-system.sql
