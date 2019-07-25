@@ -11,7 +11,6 @@ _Loc_: assets/inventory-system.sql
 _Username_: itsupport
 _Password_: itsupport
 
-
 ```
 HTML5|CSS|JAVASCRIPT
 Bootstrap|Ajax
