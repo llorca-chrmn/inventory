@@ -5,11 +5,11 @@ An inventory system for computer peripherals using CodeIgniter Framework and myS
 
 # Installation
 - Import the `Inventory-System` database
-	_Loc_: assets/inventory-system.sql
+_Loc_: assets/inventory-system.sql
 	
 - Login: Admin Account 
-	_Username_: itsupport
-	_Password_: itsupport
+_Username_: itsupport
+_Password_: itsupport
 
 
 ```
